@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Hirad!</h1>
 <h3 align="center">A passionate undergraduate interested in AI/ML applications to healthcare, as well as structual bioinformatics</h3>
 
-- 👨‍💻 All of my projects are available at [hiradhosseini.com](https://www.hiradhosseini.com/)
+- 👨‍💻 All of my projects are available at [hirad.presumably.net](https://hirad.presumably.net/)
 
-- 📄 Know about my experiences [hiradhosseini.com](https://www.hiradhosseini.com/)
+- 📄 Know about my experiences [hirad.presumably.net](https://hirad.presumably.net/)
 
-- 📫 How to reach me **hosseini.hirad@gmail.com**
+- 📫 How to reach me **hirad@presumably.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/hirad_hos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hiradhos" height="30" width="40" /></a>
 <a href="https://twitter.com/hiradhos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hiradhos" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/hirad-hosseini-1899231b0/" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/l/37/linkedin.svg" alt="hiradhos" height="70" width="80" /></a>
 </p>
